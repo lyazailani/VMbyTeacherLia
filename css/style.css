@@ -453,7 +453,7 @@ button {
 /** banner section **/
 
 .full_bg {
-    background: url(../images/banner.jpg);
+    background: url(../images/Background.png);
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -849,7 +849,7 @@ button {
 /** blog section **/
 
 .blog {
-    background: #fff;
+    background: #FFFFFF;
     padding-top: 90px;
     padding-bottom: 60px;
 }
@@ -921,7 +921,7 @@ button {
 /** about section **/
 
 .about {
-    background: #fdc001;
+    background: #FFFFFF;
     padding-top: 90px;
     padding-bottom: 90px;
 }
