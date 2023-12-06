@@ -80,27 +80,33 @@ h6 {
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 h4 {
-    font-size: 16px
+    font-size: 30px
+    font-weight: bold;
 }
 
 h5 {
-    font-size: 14px
+    font-size: 30px
+    font-weight: bold;
 }
 
 h6 {
-    font-size: 13px
+    font-size: 30px
+    font-weight: bold;
 }
 
 *,
@@ -454,7 +460,7 @@ button {
 
 .full_bg {
     background: url(../images/Background.png);
-    height: 100vh;
+    height: 150vh;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1091,7 +1097,7 @@ button {
 }
 
 .hedingh3 h3 {
-    color: #fff;
+    color: #FFFFFF;
     font-size: 23px;
     padding-bottom: 20px;
     line-height: 23px;
@@ -1111,7 +1117,7 @@ button {
 }
 
 .hedingh3 p {
-    color: #fff;
+    color: #FFFFFF;
     text-align: left;
     margin-bottom: 15px;
 }
