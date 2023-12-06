@@ -336,10 +336,11 @@ button {
 
 .header-area {
     border-top: #fdc001 solid 40px;
+    border-bottom: #fdc001 solid 40px;
     width: 100%;
 }
 
-.logo a {
+.Logo a {
     color: #363636;
     font-size: 41px;
     font-weight: 600;
@@ -455,7 +456,7 @@ button {
 
 .full_bg {
     background: url(../images/Background.png);
-    height: 150vh;
+    height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -964,7 +965,7 @@ button {
     padding-bottom: 0;
     max-width: 550px;
     width: 100%;
-    float: left;
+    float: center;
 }
 
 .about .titlepage p {
