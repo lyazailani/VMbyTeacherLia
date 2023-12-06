@@ -77,7 +77,6 @@ h6 {
     line-height: normal;
     color: #111111;
     margin: 0
-  font-weight: bold;
 }
 
 h1 {
@@ -118,7 +117,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #212121;
+    color: #000000;
     text-decoration: none!important;
     opacity: 1
 }
@@ -140,11 +139,11 @@ p {
     font-weight: normal;
     font-size: 17px;
     line-height: 28px;
-    color: #2d2d2d;
+    color: #000000;
 }
 
 a {
-    color: #222222;
+    color: #000000;
     text-decoration: none;
     outline: none !important;
 }
@@ -336,7 +335,6 @@ button {
 
 .header-area {
     border-top: #fdc001 solid 40px;
-    border-bottom: #fdc001 solid 40px;
     width: 100%;
 }
 
